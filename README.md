@@ -1,2 +1,2 @@
 # GitCourse
-Você não quer saber
+Você não quer saber.
